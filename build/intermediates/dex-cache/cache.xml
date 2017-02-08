@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\rasmus\AndroidStudioProjects\Calculator\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="04920016ada9d9b2a61d258acf69fa0413983a4e">
+        <dex dex="C:\Users\rasmus\AndroidStudioProjects\Calculator\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_af6353ce37458c921604b85c22018a814c8e870d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\rasmus\AndroidStudioProjects\Calculator\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c03bf57f358aa10d253f21989e93bcf6014b3b17">
+        <dex dex="C:\Users\rasmus\AndroidStudioProjects\Calculator\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-25.1.1_cf5dfa88694b95457c37bcf6c447c248c298879e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\rasmus\.gradle\caches\modules-2\files-2.1\org.jetbrains.kotlin\kotlin-stdlib\1.0.6\d19acb6ed49b9c48228c0e5dff8071fce23be4b8\kotlin-stdlib-1.0.6.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d19acb6ed49b9c48228c0e5dff8071fce23be4b8">
+        <dex dex="C:\Users\rasmus\AndroidStudioProjects\Calculator\app\build\intermediates\transforms\dex\debug\folders\1000\10\kotlin-stdlib-1.0.6_e6c3b15a2f005d4b528d019efd4e83af5fac2c1b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\rasmus\.gradle\caches\modules-2\files-2.1\org.jetbrains.anko\anko-common\0.9\26c6156bea5eb494474c90528240daadf4b067c8\anko-common-0.9.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="26c6156bea5eb494474c90528240daadf4b067c8">
+        <dex dex="C:\Users\rasmus\AndroidStudioProjects\Calculator\app\build\intermediates\transforms\dex\debug\folders\1000\10\anko-common-0.9_a02d2ab7216ea7d2cba69616fb4ed690d3ab0aa0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\rasmus\AndroidStudioProjects\Calculator\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="02741d05d4b697fba5e279e9881aaa1da0ca7c7f">
+        <dex dex="C:\Users\rasmus\AndroidStudioProjects\Calculator\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-compat-25.1.1_618f4f39dba1ed8cda77d74fa6b73de751e30663\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\rasmus\AndroidStudioProjects\Calculator\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="540b98843e2b4f6c00c35aa69731376c74c44459">
+        <dex dex="C:\Users\rasmus\AndroidStudioProjects\Calculator\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_cee55d175f7a1e5640b6921b19bcb332963acf04\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\rasmus\AndroidStudioProjects\Calculator\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\rasmus\AndroidStudioProjects\Calculator\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-25.1.1_84c76e3386e3b4af360805c749ad3ca2dac0c568\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\rasmus\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.1.1\support-annotations-25.1.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b59b6ee8d6ecc03e672d253800430343493a6ed8">
+        <dex dex="C:\Users\rasmus\AndroidStudioProjects\Calculator\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-25.1.1_ede1f3bcc027b403b1711906f13ea112b1e82297\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\rasmus\AndroidStudioProjects\Calculator\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0d191c1a09e4892d059e5ce749e4ad4e08129e35">
+        <dex dex="C:\Users\rasmus\AndroidStudioProjects\Calculator\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-25.1.1_ea941c9742bc057f800b1587a17b926299b69ad3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\rasmus\AndroidStudioProjects\Calculator\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ecb496cc08dd52551fc5ec6db3bc0632e95a89bb">
+        <dex dex="C:\Users\rasmus\AndroidStudioProjects\Calculator\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-25.1.1_f92ce2b5eca371de21b2892191de0bb8a54cfd71\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\rasmus\AndroidStudioProjects\Calculator\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0fb891e8f0cfba0513043a7bb357513d229ca2cd">
+        <dex dex="C:\Users\rasmus\AndroidStudioProjects\Calculator\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-utils-25.1.1_92fd209999810dbaa8cfe8248a2f2724bec9c8c2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\rasmus\AndroidStudioProjects\Calculator\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7bde4c34162092e0a77e7f12dc85ed77c484cf5c">
+        <dex dex="C:\Users\rasmus\AndroidStudioProjects\Calculator\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-media-compat-25.1.1_88d656113d0250d4afb8ca292680954d977e2a92\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\rasmus\.gradle\caches\modules-2\files-2.1\org.jetbrains.anko\anko-sdk15\0.9\e741cd0d94e63a27bc7b8cbd8d04571c058bab32\anko-sdk15-0.9.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e741cd0d94e63a27bc7b8cbd8d04571c058bab32">
+        <dex dex="C:\Users\rasmus\AndroidStudioProjects\Calculator\app\build\intermediates\transforms\dex\debug\folders\1000\10\anko-sdk15-0.9_f834f3d63899fb8b2dcb584bb5cfd27d5adee340\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\rasmus\AndroidStudioProjects\Calculator\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3e04ac8ca644ea7baddf6fdcf72e15c79e9df94a">
+        <dex dex="C:\Users\rasmus\AndroidStudioProjects\Calculator\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-ui-25.1.1_b5ff42506ab518dc32e1da5a1d329a61cc1b64e4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\rasmus\.gradle\caches\modules-2\files-2.1\org.jetbrains.kotlin\kotlin-runtime\1.0.6\3562c66f648480d3bd4f76cff722488ced13445b\kotlin-runtime-1.0.6.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3562c66f648480d3bd4f76cff722488ced13445b">
+        <dex dex="C:\Users\rasmus\AndroidStudioProjects\Calculator\app\build\intermediates\transforms\dex\debug\folders\1000\10\kotlin-runtime-1.0.6_e0a5870d392fac0619238d65213c9d5beb503022\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\rasmus\AndroidStudioProjects\Calculator\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e2719c102dca3a7a5b02ce07f769362da6ddb4ab">
+        <dex dex="C:\Users\rasmus\AndroidStudioProjects\Calculator\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-fragment-25.1.1_86da53e2e9461a9d01e5f892fbb61447c2b31be5\classes.dex" />
+    </item>
+
+</items>
